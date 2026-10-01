@@ -1,0 +1,3 @@
+- It became apparent that trying to run everything in a single script was unwieldy. I split the project into discrete scripts, which could be run separately or start to finish from the master script if necessary.
+- I developed a script called Packaginator which automates the dependencies process. It installs pacman if necessary (pending user approval) and then reads from a dependencies list stored in the workspace as a plaintext file. This meant that as new packages were introduced to the pipeline, I simply had to update a single text file rather than search through multiple scripts looking for errors.
+![[packaginator_1.png]]

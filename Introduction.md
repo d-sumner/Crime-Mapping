@@ -1,0 +1,4 @@
+**Area Selection and Rationale**
+Given that this is an attempt to apply scientific analysis to real-world phenomena, the definition of "neighbourhood" in this context must be that which most effectively enables meaningful analytical insights.
+	*Given that the state is a predominant source of socio-economic data, the administrative boundaries along which its data is gathered have been a popular choice for social disorganisation theorists since the pioneering work of Shaw and McKay. As exemplified by Bursick and Grasmick (1993), this can also identify criminogenic relations between public institutions and residents.*
+In brief: we're using LSOAs because they have by far the most available data. However, we may then apply qualitative approaches to explaining differences between LSOAs. 
